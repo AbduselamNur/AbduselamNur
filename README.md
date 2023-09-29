@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Abdu</h1>
-<h3 align="center">A passionate full stack Software Engineer from Ethiopia</h3>
+<h1 align="center">Hi there 👋, I'm Abdu</h1>
+<h3 align="center">A passionate Full stack Software Engineer from Ethiopia</h3>
 
 
 <!--
